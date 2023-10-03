@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399828670010",
+    "project_id": "secuguard-faacc",
+    "storage_bucket": "secuguard-faacc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399828670010:android:7b3258c2e8511dc5ab4703",
+        "android_client_info": {
+          "package_name": "com.santotomas.secuguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399828670010-lfqo6p7op1vtv3ha1vlcs25pj9f4bdsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGknWr2AnqOlzafnH4lILrAqF2-g7SkrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399828670010-lfqo6p7op1vtv3ha1vlcs25pj9f4bdsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
