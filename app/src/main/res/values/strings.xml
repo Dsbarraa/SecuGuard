@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">SecuGuard</string>
+
+    <string name="Btn_login">Login</string>
+    <string name="Btn_Registro">Registro</string>
+
+    <string name="CrearCuentaTXT">Crear una cuenta</string>
+    <string name="NombreEt">Nombres</string>
+    <string name="CorreoEt">Correo electrónico</string>
+    <string name="ContaseñaEt">Contraseña</string>
+    <string name="ConfirmarContraseñaEt">Confirmar contraseña</string>
+    <string name="RegistrarUsuario">Registrar</string>
+    <string name="TengounacuentaTXT">Tengo una cuenta</string>
+
+    <string name="IniciarSeccionTXT">Iniciar sección</string>
+    <string name="emailEditText">Correo electrónico</string>
+    <string name="passwordEditText">Contraseña</string>
+    <string name="loginButton">Login</string>
+    <string name="CrearunacuentaTXT">Crear una cuenta</string>
+    <string name="send_request_button">Enviar solicitud</string>
+    <string name="confirm_wellness_button">Confirmar bienestar</string>
+    <string name="emergency_button">Boton de emergencia</string>
+    <string name="BienvenidoTXT">Bienvenido</string>
+
 </resources>
