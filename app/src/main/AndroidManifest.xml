@@ -16,6 +16,34 @@
         android:theme="@style/Theme.SecuGuard"
         tools:targetApi="31">
         <activity
+            android:name=".Solicitudes"
+            android:exported="false" />
+        <activity
+            android:name=".Configuracion"
+            android:exported="false" />
+        <activity
+            android:name=".BotonEmergencia"
+            android:exported="false" />
+        <activity
+            android:name=".EspacioSeguro"
+            android:exported="false" />
+        <activity
+            android:name=".Grupos"
+            android:exported="false" />
+        <activity
+            android:name=".Contactos"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.Contactos"
+            android:exported="false"
+            android:label="@string/title_activity_contactos" />
+        <activity
+            android:name=".ComprobacionAutomatica"
+            android:exported="false" />
+        <activity
+            android:name=".AlarmService"
+            android:exported="false" />
+        <activity
             android:name=".PruebaActivity"
             android:exported="false" />
         <activity

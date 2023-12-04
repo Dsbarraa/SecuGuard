@@ -2,16 +2,29 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_emergency_button"
-            android:title="Botón de Emergencia" />
+            android:id="@+id/nav_grupos"
+            android:title="@string/grupos" />
         <item
             android:id="@+id/nav_contacts"
-            android:title="Contactos" />
+            android:title="@string/contactos" />
+        <item
+            android:id="@+id/nav_Solicitudes"
+            android:title="@string/solicitudes" />
+        <item
+            android:id="@+id/nav_comprobacion_auto"
+            android:title="@string/comprobacion_automatica" />
+        <item
+            android:id="@+id/nav_safe_space"
+            android:title="@string/espacio_seguro" />
+        <item
+            android:id="@+id/nav_emergency_button"
+            android:title="@string/bot_n_de_emergencia" />
+
         <item
             android:id="@+id/nav_settings"
-            android:title="Configuración" />
+            android:title="@string/configuraci_n" />
         <item
             android:id="@+id/nav_logout"
-            android:title="Cerrar Sesión" />
+            android:title="@string/cerrar_sesi_n" />
     </group>
 </menu>

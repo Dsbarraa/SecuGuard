@@ -21,5 +21,23 @@
     <string name="confirm_wellness_button">Confirmar bienestar</string>
     <string name="emergency_button">Boton de emergencia</string>
     <string name="BienvenidoTXT">Bienvenido</string>
+    <string name="title_activity_contactos">Contactos</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="IDUsuario">Nombre de Usuario</string>
+    <string name="grupos">Grupos</string>
+    <string name="contactos">Contactos</string>
+    <string name="comprobacion_automatica">Comprobacion Automatica</string>
+    <string name="solicitudes">Solicitudes</string>
+    <string name="espacio_seguro">Espacio seguro</string>
+    <string name="bot_n_de_emergencia">Botón de Emergencia</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
 
 </resources>
